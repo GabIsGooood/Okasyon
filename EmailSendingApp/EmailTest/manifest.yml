@@ -1,0 +1,7 @@
+---
+applications:
+- name: EmailTest1
+  memory: 1024M
+  host: EmailTest1
+  domain: cfapps.io
+  buildpack: java_buildpack
